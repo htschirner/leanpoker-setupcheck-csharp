@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.Simple", "src\Nancy.Simple.csproj", "{0B3EA40E-F7D8-4E14-A30F-1536F41B62D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.SimpleTests1", "Nancy.SimpleTests1\Nancy.SimpleTests1.csproj", "{1A9C12CB-4F71-46E7-A5B7-DC9B717F64BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B3EA40E-F7D8-4E14-A30F-1536F41B62D1}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{0B3EA40E-F7D8-4E14-A30F-1536F41B62D1}.Debug|Any CPU.Build.0 = Debug|x86
+		{0B3EA40E-F7D8-4E14-A30F-1536F41B62D1}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{0B3EA40E-F7D8-4E14-A30F-1536F41B62D1}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{0B3EA40E-F7D8-4E14-A30F-1536F41B62D1}.Release|Any CPU.ActiveCfg = Release|x86
+		{0B3EA40E-F7D8-4E14-A30F-1536F41B62D1}.Release|Any CPU.Build.0 = Release|x86
+		{0B3EA40E-F7D8-4E14-A30F-1536F41B62D1}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{0B3EA40E-F7D8-4E14-A30F-1536F41B62D1}.Release|Mixed Platforms.Build.0 = Release|x86
+		{1A9C12CB-4F71-46E7-A5B7-DC9B717F64BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A9C12CB-4F71-46E7-A5B7-DC9B717F64BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A9C12CB-4F71-46E7-A5B7-DC9B717F64BE}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{1A9C12CB-4F71-46E7-A5B7-DC9B717F64BE}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{1A9C12CB-4F71-46E7-A5B7-DC9B717F64BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A9C12CB-4F71-46E7-A5B7-DC9B717F64BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A9C12CB-4F71-46E7-A5B7-DC9B717F64BE}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{1A9C12CB-4F71-46E7-A5B7-DC9B717F64BE}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54D290AF-A2E4-43C8-B368-2E8F23CDE907}
+	EndGlobalSection
+EndGlobal
